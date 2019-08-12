@@ -3,7 +3,7 @@ Dessa forma, o usuário do tindev precisa apenas digitar seu username do github 
 
 Essa API não possui nenhum modelo de autenticação.
 
-A API foi criada e configurada para utilizar o MongoDB Atlas (https://cloud.mongodb.com/).
+A API foi criada e configurada para utilizar o MongoDB (https://cloud.mongodb.com/).
 Eles disponibilizam um cluster gratuíto com até 500mb de armazenamento.
 Para connectar a API do Tindev em seu banco de dados MongoDB, no arquivo server.js, insira a URL de conexão gerada em seu cluster do MongoDB.
 

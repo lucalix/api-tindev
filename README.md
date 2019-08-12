@@ -1,5 +1,5 @@
 O Tindev utiliza a API do github para configurar os dados dos usuários (nome, avatar, bio, etc).
-Dessa forma, o usuário do tindev precisa apenas mencionar seu user no github no momento do cadastro.
+Dessa forma, o usuário do tindev precisa apenas digitar seu username do github no momento do cadastro.
 
 Essa API não possui nenhum modelo de autenticaço.
 
